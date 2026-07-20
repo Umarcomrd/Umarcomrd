@@ -29,8 +29,9 @@ AJAX-powered admin dashboard.
 ## 📫 Reach Me
 
 Feel free to check out my repos or open an issue if you spot something worth fixing.
-ug23sccs1044@gsu.edu.ng
-07072105145
+** ug23sccs1044@gsu.edu.ng.
+** 07072105145.
+** https://x.com/design30354
 
 ---
 *Currently 🇳🇬 building my way through a full-stack roadmap, one month and one project at a time.*
