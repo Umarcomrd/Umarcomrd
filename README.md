@@ -32,6 +32,7 @@ Feel free to check out my repos or open an issue if you spot something worth fix
 ** ug23sccs1044@gsu.edu.ng.
 ** 07072105145.
 ** https://x.com/design30354
+** https://umar-portfolio-chi.vercel.app
 
 ---
 *Currently 🇳🇬 building my way through a full-stack roadmap, one month and one project at a time.*
